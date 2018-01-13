@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="issue_options">
+        <item>Other</item>
+        <item>Upholstery</item>
+        <item>Motors and Control</item>
+        <item>Jets and Pump</item>
+        <item>Lights</item>
+        <item>General Electronics</item>
+        <item>Structure</item>
+    </string-array>
+</resources>

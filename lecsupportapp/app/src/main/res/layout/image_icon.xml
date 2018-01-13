@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/frostedTintedWhite"
+    android:elevation="0dp"
+    android:paddingLeft="4dp"
+    android:paddingRight="4dp"
+    android:orientation="horizontal">
+
+    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/image_icon"
+        android:layout_width="30dp"
+        android:layout_height="fill_parent"
+        android:foreground="@drawable/delete"
+        app:srcCompat="@android:drawable/ic_delete" />
+
+    <TextView
+        android:id="@+id/file_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:paddingStart="10dp"
+        android:maxLines="1"
+        android:layout_weight="1"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"/>
+
+</LinearLayout>

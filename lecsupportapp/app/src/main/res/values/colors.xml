@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#003F72</color>
+    <color name="colorPrimary2">#5E9CAE</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorSecondary">#C3C8C8</color>
+    <color name="colorAccent">#DAA520</color>
+    <color name="colorText">#000000</color>
+    <color name="colorLight">#FFFFFF</color>
+    <color name="colorDarkGray">#565A5C</color>
+    <color name="colorBlueGray">#607D8B</color>
+    <color name="colorBlueGrayLight">#90A4AE</color>
+    <color name="colorTintedWhite">#ECEFF1</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorAccentButton">#BF9980</color>
+
+    <color name="frostedPrimary">#70003F72</color>
+    <color name="frostedPrimary2">#705e9CAE</color>
+    <color name="frostedPrimaryDark">#70000000</color>
+    <color name="frostedSecondary">#70C3C8C8</color>
+    <color name="frostedAccent">#70DAA520</color>
+    <color name="frostedText">#70000000</color>
+    <color name="frostedLight">#70FFFFFF</color>
+    <color name="frostedDarkGray">#70565A5C</color>
+    <color name="frostedBlueGray">#70607D8B</color>
+    <color name="frostedBlueGrayLight">#7090A4AE</color>
+    <color name="frostedTintedWhite">#BBECEFF1</color>
+    <color name="clearTintedWhite">#50ECEFF1</color>
+    <color name="clearPrimary">#20003F72</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+</resources>

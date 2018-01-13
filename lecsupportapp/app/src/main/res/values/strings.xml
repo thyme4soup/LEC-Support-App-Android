@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LEC Support App</string>
+    <string name="title_activity_settings">Customer Info</string>
+    <string name="title_activity_service">Support</string>
+    <string name="title_activity_my_products">My Products</string>
+    <string name="products">Products</string>
+    <string name="filler_message_text">No products yet</string>
+    <string name="scanner_button">Scan Product</string>
+    <string name="choose_button">Select Product</string>
+    <string name="send_button">Send</string>
+    <string name="issue">Issue Description</string>
+    <string name="req_card">Support Request</string>
+    <string name="user_info_title">User Information</string>
+    <string name="name">Name*</string>
+    <string name="name_colon">Name:</string>
+    <string name="email">Email*</string>
+    <string name="email_colon">Email:</string>
+    <string name="phone">Phone*</string>
+    <string name="phone_colon">Phone:</string>
+    <string name="org">Organization</string>
+    <string name="org_colon">Organization:</string>
+    <string name="request_support">Request Support</string>
+    <string name="call">Direct Call</string>
+    <string name="website">Website</string>
+    <string name="title_activity_service_request">Support Request</string>
+    <string name="filler">Lorem Ipsum</string>
+    <string name="add_image">Add Image</string>
+    <string name="issue_images">Images:</string>
+    <string name="issue_description">Description:</string>
+    <string name="spinner_title">Issue Type</string>
+</resources>

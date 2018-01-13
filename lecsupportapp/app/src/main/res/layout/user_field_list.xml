@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/product_list_item"
+    android:layout_height="wrap_content"
+    android:layout_width="fill_parent"
+    android:elevation="1dp"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/field_header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="@string/filler"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+    <EditText
+        android:id="@+id/field_edit"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_view_underline"
+        android:hint="@string/filler"
+        android:padding="5dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginBottom="20dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
+</LinearLayout>

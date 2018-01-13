@@ -1,0 +1,4 @@
+#Fri Jul 21 14:53:33 PDT 2017
+base.0=/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

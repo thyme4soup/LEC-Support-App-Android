@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

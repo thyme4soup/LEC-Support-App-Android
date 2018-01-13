@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/16f233d321238abde5b757f2b9dd92a1bf2b9dc5/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/16f233d321238abde5b757f2b9dd92a1bf2b9dc5/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/16f233d321238abde5b757f2b9dd92a1bf2b9dc5/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/user_field_list.xml",
+        "source": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/src/main/res/layout/user_field_list.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/activity_service_request.xml",
+        "source": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/src/main/res/layout/activity_service_request.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/16f233d321238abde5b757f2b9dd92a1bf2b9dc5/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/zxing_barcode_scanner.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/9da8c18304c4617b93096eeda82ee24bde10dac2/output/res/layout/zxing_barcode_scanner.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/16f233d321238abde5b757f2b9dd92a1bf2b9dc5/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/16f233d321238abde5b757f2b9dd92a1bf2b9dc5/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/16f233d321238abde5b757f2b9dd92a1bf2b9dc5/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/activity_service.xml",
+        "source": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/src/main/res/layout/activity_service.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/16f233d321238abde5b757f2b9dd92a1bf2b9dc5/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/product_list.xml",
+        "source": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/src/main/res/layout/product_list.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/content_my_products.xml",
+        "source": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/src/main/res/layout/content_my_products.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/spinner_text.xml",
+        "source": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/src/main/res/layout/spinner_text.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/zxing_capture.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/9da8c18304c4617b93096eeda82ee24bde10dac2/output/res/layout/zxing_capture.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/image_icon.xml",
+        "source": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/src/main/res/layout/image_icon.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/16f233d321238abde5b757f2b9dd92a1bf2b9dc5/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/16f233d321238abde5b757f2b9dd92a1bf2b9dc5/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/16f233d321238abde5b757f2b9dd92a1bf2b9dc5/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/activity_main_screen.xml",
+        "source": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/src/main/res/layout/activity_main_screen.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/16f233d321238abde5b757f2b9dd92a1bf2b9dc5/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/16f233d321238abde5b757f2b9dd92a1bf2b9dc5/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/activity_my_products.xml",
+        "source": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/src/main/res/layout/activity_my_products.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/16f233d321238abde5b757f2b9dd92a1bf2b9dc5/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Earthlite27/AndroidStudioProjects/LECSupportApp/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Earthlite27/.android/build-cache/d4a53b0517716f37a60ddaf0591b677ff77b4dba/output/res/layout/abc_popup_menu_item_layout.xml"
+    }
+]
